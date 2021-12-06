@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "DBFacturas",
+            "group": "dbLite",
+            "database": "${workspaceFolder:Tarea 8 - PW}/BDGeneral.db"
+        }
+    ]
+}
